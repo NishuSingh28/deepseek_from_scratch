@@ -1,0 +1,15 @@
+# Data files (too large for GitHub)
+data/train_raw.txt
+data/*.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
